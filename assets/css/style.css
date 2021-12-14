@@ -46,10 +46,58 @@ section.sobre {
 
 .extras {
     position: absolute;
-    bottom:-500px;
-    right:-550px;
-    width: 1200px;
-    height: 1200px;
+    bottom:-450px;
+    right:-400px;
+    width: 1120px;
+    height: 1140px;
     border-radius: 50%;
     background-color: #017143;
+}
+
+.social-media {
+    position: absolute;
+    right: 410px;
+    top: 200px;
+}
+
+.social-media img {
+    display: block;
+    width: 20px;
+    margin: 20px 0px;
+}
+
+.texto-sobre {
+    margin-top: 100px;
+}
+
+.texto-sobre h1 {
+    font-size: 50px;
+}
+
+.texto-sobre p {
+    max-width: 800px;
+    font-size: 18px;
+    color: grey;
+    margin: 20px 0; 
+}
+
+.texto-sobre button {
+    border: 0;
+    background-color: #017143;
+    color: white;
+    border-radius: 10px;
+    width: 120px;
+    height: 35px;
+    cursor: pointer;
+}
+
+.roda-pe {
+    position: absolute;
+    top: 87%;
+    right: 50%;
+}
+
+.icons-final img {
+    width: 70px;
+    margin: 0 30px; 
 }
